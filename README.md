@@ -1,2 +1,0 @@
-# IntersectionObserver
-Created with CodeSandbox
